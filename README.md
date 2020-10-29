@@ -1,4 +1,4 @@
 # python-exercises
 
-1) Bank-System
-2) Error Handling [number-error-handling.ipynb]
+1) Bank-System [ python-bank-system.ipynb ]
+2) Error Handling [ number-error-handling.ipynb ]
