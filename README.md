@@ -11,3 +11,8 @@
 
 1) Css Complete colors Generator (000000 - FFFFFF)
 2) css class maker
+
+## TakeUPs
+
+1) <a href="https://github.com/Yaseen549/python-exercise-programs/tree/main/ReqTrain">ReqTrain</a>
+2) <a href="https://github.com/Yaseen549/python-exercise-programs/tree/main/GroomIn">GroomIn</a>
